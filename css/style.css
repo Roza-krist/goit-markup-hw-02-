@@ -315,5 +315,5 @@ font-size: 18px;
 line-height: 1,5;
 letter-spacing: 0.03em;
 color: var(--primary-bg-color);
-background: var(--subtitle-text-color);
+background: var(--primary-text-color);
 }
